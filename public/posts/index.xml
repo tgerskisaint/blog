@@ -15,5 +15,12 @@
       <guid>https://tgerskisaint.github.io/myblog/posts/test/</guid>
       <description></description>
     </item>
+    <item>
+      <title>Blog01</title>
+      <link>https://tgerskisaint.github.io/myblog/posts/blog01/</link>
+      <pubDate>Sun, 18 May 2025 01:01:07 -0500</pubDate>
+      <guid>https://tgerskisaint.github.io/myblog/posts/blog01/</guid>
+      <description>01 April 30, 2025 I&amp;rsquo;m an aggressively subpar writer, but they tell me the only way to improve that quality is to write more, and in the public eye as well, so I have some skin in the game. I guess that&amp;rsquo;s valid advice; like a cornered weasel, I, too, can adapt and overcome when my back&amp;rsquo;s against the wall. Of course, I&amp;rsquo;m cheating a bit by labeling this in the public eye, but hey!</description>
+    </item>
   </channel>
 </rss>
