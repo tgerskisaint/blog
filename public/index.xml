@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Blog</title>
+    <link>https://tgerskisaint.github.io/myblog/</link>
+    <description>Recent content on My Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 18 May 2025 01:20:35 -0500</lastBuildDate>
+    <atom:link href="https://tgerskisaint.github.io/myblog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>https://tgerskisaint.github.io/myblog/posts/test/</link>
+      <pubDate>Sun, 18 May 2025 01:20:35 -0500</pubDate>
+      <guid>https://tgerskisaint.github.io/myblog/posts/test/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blog01</title>
+      <link>https://tgerskisaint.github.io/myblog/post/blog01/</link>
+      <pubDate>Sun, 18 May 2025 01:01:07 -0500</pubDate>
+      <guid>https://tgerskisaint.github.io/myblog/post/blog01/</guid>
+      <description>01 April 30, 2025 I&amp;rsquo;m an aggressively subpar writer, but they tell me the only way to improve that quality is to write more, and in the public eye as well, so I have some skin in the game. I guess that&amp;rsquo;s valid advice; like a cornered weasel, I, too, can adapt and overcome when my back&amp;rsquo;s against the wall. Of course, I&amp;rsquo;m cheating a bit by labeling this in the public eye, but hey!</description>
+    </item>
+  </channel>
+</rss>

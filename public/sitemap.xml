@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://tgerskisaint.github.io/myblog/</loc>
+    <lastmod>2025-05-18T01:20:35-05:00</lastmod>
+  </url><url>
+    <loc>https://tgerskisaint.github.io/myblog/posts/</loc>
+    <lastmod>2025-05-18T01:20:35-05:00</lastmod>
+  </url><url>
+    <loc>https://tgerskisaint.github.io/myblog/posts/test/</loc>
+    <lastmod>2025-05-18T01:20:35-05:00</lastmod>
+  </url><url>
+    <loc>https://tgerskisaint.github.io/myblog/post/blog01/</loc>
+    <lastmod>2025-05-18T01:01:07-05:00</lastmod>
+  </url><url>
+    <loc>https://tgerskisaint.github.io/myblog/post/</loc>
+    <lastmod>2025-05-18T01:01:07-05:00</lastmod>
+  </url><url>
+    <loc>https://tgerskisaint.github.io/myblog/categories/</loc>
+  </url><url>
+    <loc>https://tgerskisaint.github.io/myblog/tags/</loc>
+  </url>
+</urlset>

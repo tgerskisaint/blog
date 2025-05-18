@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My Blog</title>
+    <link>https://tgerskisaint.github.io/myblog/posts/</link>
+    <description>Recent content in Posts on My Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 18 May 2025 01:20:35 -0500</lastBuildDate>
+    <atom:link href="https://tgerskisaint.github.io/myblog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>https://tgerskisaint.github.io/myblog/posts/test/</link>
+      <pubDate>Sun, 18 May 2025 01:20:35 -0500</pubDate>
+      <guid>https://tgerskisaint.github.io/myblog/posts/test/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
